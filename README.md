@@ -5,4 +5,4 @@
 - install the "cookiecutter" library
 - enter the following command:
 
-cookiecutter https://github.com/drivendata/cookiecutter-data-science
+'cookiecutter https://github.com/drivendata/cookiecutter-data-science'
