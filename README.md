@@ -1,7 +1,7 @@
 # How to Create a Cookiecutter Template
 
-- open IDE
-- from the Terminal, go to the root folder (*e.g.* "python_projects")
+- open an IDE or CLI to access Python
+- from the Terminal, '''cd''' into the root folder (*e.g.* "python_projects")
 - install the "cookiecutter" library
 - enter the following command:
 
